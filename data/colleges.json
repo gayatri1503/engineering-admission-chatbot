@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "College of Engineering Pune (COEP)",
+    "location": "Pune",
+    "type": "Government",
+    "branches": ["Computer Engineering", "IT", "Mechanical", "Civil", "Electronics"],
+    "facilities": ["Hostel", "Library", "Sports Complex", "Labs"],
+    "website": "https://www.coep.org.in"
+  },
+  {
+    "id": 2,
+    "name": "Veermata Jijabai Technological Institute (VJTI)",
+    "location": "Mumbai",
+    "type": "Government",
+    "branches": ["Computer Engineering", "IT", "Electronics", "Production", "Textile"],
+    "facilities": ["Hostel", "Library", "Research Labs", "Cafeteria"],
+    "website": "https://vjti.ac.in"
+  },
+  {
+    "id": 3,
+    "name": "Walchand College of Engineering",
+    "location": "Sangli",
+    "type": "Government",
+    "branches": ["Computer Engineering", "IT", "Mechanical", "Electronics", "Civil"],
+    "facilities": ["Hostel", "Library", "Sports", "Innovation Center"],
+    "website": "https://www.walchandsangli.ac.in"
+  },
+  {
+    "id": 4,
+    "name": "Government College of Engineering Aurangabad",
+    "location": "Aurangabad",
+    "type": "Government",
+    "branches": ["Computer Engineering", "IT", "Mechanical", "Electronics", "Civil"],
+    "facilities": ["Hostel", "Library", "Labs", "Canteen"],
+    "website": "https://geca.ac.in"
+  },
+  {
+    "id": 5,
+    "name": "Vishwakarma Institute of Technology (VIT)",
+    "location": "Pune",
+    "type": "Private",
+    "branches": ["Computer Engineering", "IT", "Electronics", "Mechanical", "Civil"],
+    "facilities": ["Hostel", "Modern Labs", "Sports Complex", "Cafeteria"],
+    "website": "https://www.vit.edu"
+  },
+  {
+    "id": 6,
+    "name": "MIT Academy of Engineering",
+    "location": "Pune",
+    "type": "Private",
+    "branches": ["Computer Engineering", "IT", "Mechanical", "Electronics", "Civil"],
+    "facilities": ["Hostel", "Library", "Innovation Lab", "Sports"],
+    "website": "https://mitaoe.ac.in"
+  },
+  {
+    "id": 7,
+    "name": "Pune Institute of Computer Technology (PICT)",
+    "location": "Pune",
+    "type": "Private",
+    "branches": ["Computer Engineering", "IT", "Electronics"],
+    "facilities": ["Hostel", "Library", "Research Center", "Cafeteria"],
+    "website": "https://pict.edu"
+  },
+  {
+    "id": 8,
+    "name": "Sinhgad College of Engineering",
+    "location": "Pune",
+    "type": "Private",
+    "branches": ["Computer Engineering", "IT", "Mechanical", "Electronics", "Civil"],
+    "facilities": ["Hostel", "Library", "Labs", "Sports Ground"],
+    "website": "https://www.sinhgad.edu"
+  },
+  {
+    "id": 9,
+    "name": "K J Somaiya College of Engineering",
+    "location": "Mumbai",
+    "type": "Private",
+    "branches": ["Computer Engineering", "IT", "Electronics", "Mechanical"],
+    "facilities": ["Hostel", "Library", "Innovation Hub", "Cafeteria"],
+    "website": "https://kjsce.somaiya.edu"
+  },
+  {
+    "id": 10,
+    "name": "Sardar Patel College of Engineering",
+    "location": "Mumbai",
+    "type": "Private",
+    "branches": ["Computer Engineering", "IT", "Electronics", "Civil"],
+    "facilities": ["Library", "Labs", "Sports", "Canteen"],
+    "website": "https://www.spce.ac.in"
+  }
+]

@@ -1,0 +1,115 @@
+{
+  "OPEN": {
+    "category_name": "Open Category",
+    "required_documents": [
+      "10th Marksheet",
+      "12th Marksheet",
+      "MHT CET Scorecard",
+      "Aadhar Card",
+      "Domicile Certificate (if applicable)",
+      "Passport Size Photos (3 copies)",
+      "Caste Certificate (Original + Photocopy)",
+      "Caste Validity Certificate",
+      "Non-Creamy Layer Certificate (if OBC)",
+      "School Leaving Certificate",
+      "Gap Certificate (if applicable)",
+      "Transfer Certificate",
+      "Migration Certificate (if from other state)",
+      "Income Certificate of Parents"
+    ],
+    "verification_notes": "All documents must be original with 2 photocopies"
+  },
+  "OBC": {
+    "category_name": "Other Backward Classes",
+    "required_documents": [
+      "10th Marksheet",
+      "12th Marksheet",
+      "MHT CET Scorecard",
+      "Aadhar Card",
+      "Domicile Certificate",
+      "Passport Size Photos (3 copies)",
+      "Caste Certificate (Original + Photocopy)",
+      "Caste Validity Certificate",
+      "Non-Creamy Layer Certificate (within 1 year)",
+      "School Leaving Certificate",
+      "Gap Certificate (if applicable)",
+      "Transfer Certificate",
+      "Migration Certificate (if from other state)",
+      "Income Certificate of Parents"
+    ],
+    "verification_notes": "Non-Creamy Layer certificate must be issued within the last financial year"
+  },
+  "SC": {
+    "category_name": "Scheduled Caste",
+    "required_documents": [
+      "10th Marksheet",
+      "12th Marksheet",
+      "MHT CET Scorecard",
+      "Aadhar Card",
+      "Domicile Certificate",
+      "Passport Size Photos (3 copies)",
+      "Caste Certificate (Original + Photocopy)",
+      "Caste Validity Certificate",
+      "School Leaving Certificate",
+      "Gap Certificate (if applicable)",
+      "Transfer Certificate",
+      "Migration Certificate (if from other state)",
+      "Income Certificate of Parents"
+    ],
+    "verification_notes": "Caste certificate must be issued by competent authority"
+  },
+  "ST": {
+    "category_name": "Scheduled Tribe",
+    "required_documents": [
+      "10th Marksheet",
+      "12th Marksheet",
+      "MHT CET Scorecard",
+      "Aadhar Card",
+      "Domicile Certificate",
+      "Passport Size Photos (3 copies)",
+      "Caste Certificate (Original + Photocopy)",
+      "Caste Validity Certificate",
+      "School Leaving Certificate",
+      "Gap Certificate (if applicable)",
+      "Transfer Certificate",
+      "Migration Certificate (if from other state)",
+      "Income Certificate of Parents"
+    ],
+    "verification_notes": "Caste certificate must be issued by competent authority"
+  },
+  "EWS": {
+    "category_name": "Economically Weaker Section",
+    "required_documents": [
+      "10th Marksheet",
+      "12th Marksheet",
+      "MHT CET Scorecard",
+      "Aadhar Card",
+      "Domicile Certificate",
+      "Passport Size Photos (3 copies)",
+      "EWS Certificate (within 1 year)",
+      "Income Certificate (Annual income less than 8 lakhs)",
+      "School Leaving Certificate",
+      "Gap Certificate (if applicable)",
+      "Transfer Certificate",
+      "Migration Certificate (if from other state)"
+    ],
+    "verification_notes": "EWS certificate must be valid for current academic year and family income should be less than 8 lakhs per annum"
+  },
+  "TFWS": {
+    "category_name": "Tuition Fee Waiver Scheme",
+    "required_documents": [
+      "10th Marksheet",
+      "12th Marksheet",
+      "MHT CET Scorecard",
+      "Aadhar Card",
+      "Domicile Certificate",
+      "Passport Size Photos (3 copies)",
+      "Income Certificate (Annual income less than 8 lakhs)",
+      "School Leaving Certificate",
+      "Gap Certificate (if applicable)",
+      "Transfer Certificate",
+      "Migration Certificate (if from other state)"
+    ],
+    "verification_notes": "Family income must be less than 8 lakhs per annum from all sources"
+  }
+}

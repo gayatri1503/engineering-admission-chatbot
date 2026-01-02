@@ -1,0 +1,142 @@
+[
+  {
+    "college_id": 1,
+    "college_name": "COEP",
+    "branch": "Computer Engineering",
+    "category": "OPEN",
+    "round1_percentile": 99.50,
+    "round2_percentile": 99.30,
+    "round3_percentile": 99.20,
+    "year": 2024
+  },
+  {
+    "college_id": 1,
+    "college_name": "COEP",
+    "branch": "Computer Engineering",
+    "category": "OBC",
+    "round1_percentile": 98.50,
+    "round2_percentile": 98.20,
+    "round3_percentile": 98.00,
+    "year": 2024
+  },
+  {
+    "college_id": 1,
+    "college_name": "COEP",
+    "branch": "IT",
+    "category": "OPEN",
+    "round1_percentile": 99.20,
+    "round2_percentile": 99.00,
+    "round3_percentile": 98.80,
+    "year": 2024
+  },
+  {
+    "college_id": 1,
+    "college_name": "COEP",
+    "branch": "IT",
+    "category": "OBC",
+    "round1_percentile": 97.80,
+    "round2_percentile": 97.50,
+    "round3_percentile": 97.30,
+    "year": 2024
+  },
+  {
+    "college_id": 2,
+    "college_name": "VJTI",
+    "branch": "Computer Engineering",
+    "category": "OPEN",
+    "round1_percentile": 99.60,
+    "round2_percentile": 99.40,
+    "round3_percentile": 99.30,
+    "year": 2024
+  },
+  {
+    "college_id": 2,
+    "college_name": "VJTI",
+    "branch": "Computer Engineering",
+    "category": "OBC",
+    "round1_percentile": 98.70,
+    "round2_percentile": 98.50,
+    "round3_percentile": 98.30,
+    "year": 2024
+  },
+  {
+    "college_id": 3,
+    "college_name": "Walchand College",
+    "branch": "Computer Engineering",
+    "category": "OPEN",
+    "round1_percentile": 98.20,
+    "round2_percentile": 97.90,
+    "round3_percentile": 97.70,
+    "year": 2024
+  },
+  {
+    "college_id": 3,
+    "college_name": "Walchand College",
+    "branch": "Computer Engineering",
+    "category": "OBC",
+    "round1_percentile": 96.50,
+    "round2_percentile": 96.20,
+    "round3_percentile": 96.00,
+    "year": 2024
+  },
+  {
+    "college_id": 5,
+    "college_name": "VIT Pune",
+    "branch": "Computer Engineering",
+    "category": "OPEN",
+    "round1_percentile": 97.50,
+    "round2_percentile": 97.20,
+    "round3_percentile": 96.90,
+    "year": 2024
+  },
+  {
+    "college_id": 5,
+    "college_name": "VIT Pune",
+    "branch": "Computer Engineering",
+    "category": "OBC",
+    "round1_percentile": 95.80,
+    "round2_percentile": 95.50,
+    "round3_percentile": 95.20,
+    "year": 2024
+  },
+  {
+    "college_id": 5,
+    "college_name": "VIT Pune",
+    "branch": "IT",
+    "category": "OPEN",
+    "round1_percentile": 96.80,
+    "round2_percentile": 96.50,
+    "round3_percentile": 96.20,
+    "year": 2024
+  },
+  {
+    "college_id": 7,
+    "college_name": "PICT",
+    "branch": "Computer Engineering",
+    "category": "OPEN",
+    "round1_percentile": 98.50,
+    "round2_percentile": 98.20,
+    "round3_percentile": 98.00,
+    "year": 2024
+  },
+  {
+    "college_id": 7,
+    "college_name": "PICT",
+    "branch": "Computer Engineering",
+    "category": "OBC",
+    "round1_percentile": 96.80,
+    "round2_percentile": 96.50,
+    "round3_percentile": 96.30,
+    "year": 2024
+  },
+  {
+    "college_id": 7,
+    "college_name": "PICT",
+    "branch": "IT",
+    "category": "OPEN",
+    "round1_percentile": 97.90,
+    "round2_percentile": 97.60,
+    "round3_percentile": 97.40,
+    "year": 2024
+  }
+]

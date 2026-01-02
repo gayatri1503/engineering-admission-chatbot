@@ -2,8 +2,8 @@ from flask import Flask, request, jsonify
 from flask_cors import CORS
 import os
 from datetime import datetime
-from utils.college_finder import find_colleges_by_percentile, get_college_details, get_cutoff_details, get_all_branches, get_categories
-from utils.document_checker import get_documents_by_category, format_document_list
+from backend.utils.college_finder import find_colleges_by_percentile, get_college_details, get_cutoff_details, get_all_branches, get_categories
+from backend.utils.document_checker import get_documents_by_category, format_document_list
 
 app = Flask(__name__)
 CORS(app)
